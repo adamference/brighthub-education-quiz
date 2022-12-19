@@ -19,3 +19,10 @@ main:
   - name: Special Ed
     url: 'https://www.brighthubeducation.com/special-education/'
     weight: 120
+  - name: More
+    identifier: more
+    weight: 140
+  - name: Homeschool
+    parent: more
+    url: 'https://www.brighthubeducation.com/homeschool/'
+    weight: 130
