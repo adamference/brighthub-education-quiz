@@ -9,13 +9,18 @@ image:
   preview_only: false
 ---
 <style>
-.red {
-  color: red;
-}
-.green {
-  color: green;
+
+.page-body {
+
+flex-grow: 1;
+
+background: rgb(47,93,133);
+
+background: linear-gradient(180deg, rgba(47,93,133,1) 0%, rgba(13,90,150,1) 35%, rgba(0,155,255,1) 100%);
+
 }
 </style>
+
 </head>
 <body>
 
@@ -27,20 +32,3 @@ Which of the following is an example of a word formation process?
 <input type="radio" name="q1" onclick="myFunction(this.value)" value="C"> Adding a prefix<br>
 <input type="radio" name="q1" onclick="myFunction(this.value)" value="D"> All of the above
 </p>
-<h2>Question 2</h2>
-Which of the following is an example of a word conversion process?
-<p>
-<input type="radio" name="q2" onclick="myFunction(this.value)" value="A"> Adding a suffix<br>
-<input type="radio" name="q2" onclick="myFunction(this.value)" value="B"> Replacing a letter<br>
-<input type="radio" name="q2" onclick="myFunction(this.value)" value="C"> Adding a prefix<br>
-<input type="radio" name="q2" onclick="myFunction(this.value)" value="D"> Changing an adjective to a noun
-</p>
-<script>
-function myFunction(val) {
-  if (val == "D") {
-    document.getElementById("demo").className = "green";
-  } else {
-    document.getElementById("demo").className = "red";
-  }
-}
-</script>
