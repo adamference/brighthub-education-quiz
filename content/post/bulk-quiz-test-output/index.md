@@ -129,17 +129,3 @@ Set 8
 <p style="text-align: right;"><a href="/parents-children-time-at-home-activities-galore-8/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
 </div>
 
-Set 9
-<div class="quizbox">
-<h2 style="color: #ffffff;">Question 9</h2>
-<p>What is one way that parents can help their children develop positive relationships with peers?</p>
-
-<div class="quizbox-question" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="#">Encourage them to play video games<a/></div>
-<div class="quizbox-question-c" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="#">Encourage them to participate in activities with their peers<a/></div>
-<div class="quizbox-question" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="#">Provide them with a variety of activities<a/></div>
-<div class="quizbox-question" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="#">Limit their time on activities<a/></div>
-
-<div class="hidden-answer" style="display:none;">One way that parents can help their children develop positive relationships with peers is to encourage them to participate in activities with their peers. This helps children learn how to interact with others and how to be a good friend. </div>
-
-<p style="text-align: right;"><a href="/parents-children-time-at-home-activities-galore-9/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
-</div>
