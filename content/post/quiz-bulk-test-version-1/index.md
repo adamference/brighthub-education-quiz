@@ -16,12 +16,12 @@ SET 1
 <h2 style="color: #ffffff;">Question 1</h2>
 <p>What is one way parents can encourage their children to be creative during their time at home?</p>
 
-<div class="quizbox-question" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="#">Limit their access to media</a></div>
-<div class="quizbox-question" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="#">Provide them with plenty of art supplies</a></div>
-<div class="quizbox-question" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="#">Allow them to watch educational programming</a></div>
-<div class="quizbox-question-c" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="#">Encourage them to take breaks from technology</a></div>
+<div class="quizbox-question" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="/#">Limit their access to media</a></div>
+<div class="quizbox-question" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="/#">Provide them with plenty of art supplies</a></div>
+<div class="quizbox-question" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="/#">Allow them to watch educational programming</a></div>
+<div class="quizbox-question-c" onclick="document.getElementById('hidden-answer').style.display='block';"><a href="/#">Encourage them to take breaks from technology</a></div>
 
-<div class="hidden-answer" style="display:none;">Encourage them to take breaks from technology. Taking breaks from technology allows children to be creative and explore their imaginations without the distractions of media and technology.</div>
+<div id="hidden-answer" style="display:none;">Encourage them to take breaks from technology. Taking breaks from technology allows children to be creative and explore their imaginations without the distractions of media and technology.</div>
 
 <p style="text-align: right;"><a href="/parents-children-time-at-home-activities-galore-1/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
 </div>
