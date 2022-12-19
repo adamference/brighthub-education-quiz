@@ -11,7 +11,7 @@ cta:
   icon: user-graduate
 widget_id: RECENT-POSTS
 headless: true
-weight: 10
+weight: 0
 title: By Teachers For Teachers
 cta_alt:
   ? url
@@ -26,7 +26,6 @@ hero_media: teacher.png
 ---
 <br>
 
-Lesson Plans, Teaching Tips and Tools Written by and for Teachers.
+Lesson Plans, Teaching Tips, Tricks and Tools Written by and for Teachers. 
 
 <br>
-{{% cta cta_link="./content/" cta_text="Explore our Quizes!" %}}
