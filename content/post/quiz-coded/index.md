@@ -10,6 +10,12 @@ image:
   preview_only: false
 ---
 <h2>Question 1</h2>
+<style>
+#﻿article {background: rgb(47,93,133);
+background: linear-gradient(180deg, rgba(47,93,133,1) 0%, rgba(13,90,150,1) 35%, rgba(0,155,255,1) 100%);
+}﻿
+</style>
+
 <div style="background-color: black; color:white;padding: 10px;"> 
 <h2>Question 1</h2>
 <p>
