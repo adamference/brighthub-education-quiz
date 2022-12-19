@@ -29,3 +29,4 @@ hero_media: teacher.png
 Lesson Plans, Teaching Tips and Tools Written by and for Teachers.
 
 <br>
+{{% cta cta_link="./content/" cta_text="Explore our Quizes!" %}}
