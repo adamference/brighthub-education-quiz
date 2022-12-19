@@ -1,5 +1,6 @@
 ---
-title: Quiz coded
+title: Early Education Information for Teachers, Parents & Caregivers
+subtitle: Question 1
 date: 2022-12-19T06:52:23.748Z
 draft: false
 featured: false
@@ -8,18 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<style>
 
-.page-body {
-
-flex-grow: 1;
-
-background: rgb(47,93,133);
-
-background: linear-gradient(180deg, rgba(47,93,133,1) 0%, rgba(13,90,150,1) 35%, rgba(0,155,255,1) 100%);
-
-}
-</style>
 
 <h2>Question 1</h2>
 Which of the following is an example of a word formation process?
