@@ -18,11 +18,28 @@ main:
     weight: 90
   - name: Special Ed
     url: 'https://www.brighthubeducation.com/special-education/'
-    weight: 120
+    weight: 95
+  - name: Homeschool
+    url: 'https://www.brighthubeducation.com/homeschool/'
+    weight: 100
   - name: More
     identifier: more
     weight: 140
-  - name: Homeschool
+  - name: Summer Learning
     parent: more
-    url: 'https://www.brighthubeducation.com/homeschool/'
+    url: 'https://www.brighthubeducation.com/summer-learning/'
     weight: 130
+  - name: Teaching Tools
+    parent: more
+    url: 'https://www.brighthubeducation.com/teaching-tools/'
+    weight: 130
+  - name: Second Languages
+    parent: more
+    url: 'https://www.brighthubeducation.com/second-languages/'
+    weight: 130
+      - name: Teaching ESL Learners
+    parent: more
+    url: 'https://www.brighthubeducation.com/teaching-esl-learners/'
+    weight: 130
+
+
