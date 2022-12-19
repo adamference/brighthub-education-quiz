@@ -1,10 +1,10 @@
 ---
-title: Ready to learn?
-subtitle:
 widget: blank
+widget_id: recent-posts
 weight: 50
+title: Ready to learn?
+subtitle: null
 design:
-  columns: '1'
+  columns: "1"
 ---
-
-{{% cta cta_link="./course/" cta_text="Explore our courses!" %}}
+{{% cta cta_link="./content/" cta_text="Explore our Quizes!" %}}
