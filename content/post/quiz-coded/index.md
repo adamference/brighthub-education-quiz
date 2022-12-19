@@ -21,9 +21,6 @@ background: linear-gradient(180deg, rgba(47,93,133,1) 0%, rgba(13,90,150,1) 
 }
 </style>
 
-</head>
-<body>
-
 <h2>Question 1</h2>
 Which of the following is an example of a word formation process?
 <p>
