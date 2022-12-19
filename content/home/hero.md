@@ -28,4 +28,4 @@ hero_media: teacher.png
 
 Lesson Plans, Teaching Tips and Tools Written by and for Teachers.
 
-<br><br>
+<br>
