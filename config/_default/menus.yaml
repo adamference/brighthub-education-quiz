@@ -37,9 +37,7 @@ main:
     parent: more
     url: 'https://www.brighthubeducation.com/second-languages/'
     weight: 130
-      - name: Teaching ESL Learners
+  - name: Teaching ESL Learners
     parent: more
     url: 'https://www.brighthubeducation.com/teaching-esl-learners/'
     weight: 130
-
-
