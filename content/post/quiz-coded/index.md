@@ -10,13 +10,14 @@ image:
   preview_only: false
 ---
 
-<div style="background-color: black; color:white;padding: 10px;"> 
+<div class="quizbox">
 <h2 style="color: #ffffff;">Question 1</h2>
 <p>Which of these questions will get you to another page to see more ads?</p>
 
-<div style="width: 100%; padding: 10px; background-color: #ffffff; color: #0f0f00; margin-bottom: 10px;"><input type="radio" name="q1" onclick="myFunction(this.value)" value="A"> Adding a suffix</div>
-<div style="width: 100%; padding: 10px; background-color: #ffffff; color: #0f0f00; margin-bottom: 10px;"><input type="radio" name="q1" onclick="myFunction(this.value)" value="B"> Replacing a letter</div>
-<div style="width: 100%; padding: 10px; background-color: #ffffff; color: #0f0f00; margin-bottom: 10px;"><input type="radio" name="q1" onclick="myFunction(this.value)" value="C"> Adding a prefix</div>
-<div style="width: 100%; padding: 10px; background-color: #ffffff; color: #0f0f00; margin-bottom: 10px;"><input type="radio" name="q1" onclick="myFunction(this.value)" value="D"> All of the above</div>
+<div class="quizbox-question"><input type="radio" name="q1" onclick="myFunction(this.value)" value="A"> Adding a suffix</div>
+<div class="quizbox-question"><input type="radio" name="q1" onclick="myFunction(this.value)" value="B"> Replacing a letter</div>
+<div class="quizbox-question"><input type="radio" name="q1" onclick="myFunction(this.value)" value="C"> Adding a prefix</div>
+<div class="quizbox-question"><input type="radio" name="q1" onclick="myFunction(this.value)" value="D"> All of the above</div>
 
+<a href="/post/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a>
 </div>
