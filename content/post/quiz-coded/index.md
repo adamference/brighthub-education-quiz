@@ -18,5 +18,5 @@ image:
 <div class="quizbox-question"><input type="radio" name="q1" onclick="myFunction(this.value)" value="C"> Adding a prefix</div>
 <div class="quizbox-question"><input type="radio" name="q1" onclick="myFunction(this.value)" value="D"> All of the above</div>
 
-<p style="text-align="right;"><a href="/post/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
+<p style="text-align=right;"><a href="/post/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
 </div>
