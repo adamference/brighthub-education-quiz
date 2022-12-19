@@ -5,8 +5,8 @@ advanced:
   css_class: fullscreen
 widget: hero
 cta:
-  url: "#courses"
-  label: Explore our courses
+  url: "/post/"
+  label: Explore Our Quizes
   icon_pack: fas
   icon: user-graduate
 widget_id: RECENT-POSTS
