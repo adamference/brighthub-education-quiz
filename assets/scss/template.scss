@@ -60,12 +60,24 @@ width: 100%;
     margin-bottom: 10px;
 }
 
+.quizbox-question-c a{
+    color: #0f0f00;
+}
+
+
+
+.quizbox-question a{
+    color: #0f0f00;
+}
+
 .quizbox-question-c:active{
     background-color: #5da76a;
+    color: #ffffff;
 }
 
 .quizbox-question:active{
     background-color: #db4437;
+    color: #ffffff;
 }
 
  
