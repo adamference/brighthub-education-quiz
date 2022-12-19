@@ -9,7 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
 <div class="quizbox">
 <h2 style="color: #ffffff;">Question 1</h2>
 <p>Which of these questions will get you to another page to see more ads?</p>
@@ -19,5 +18,5 @@ image:
 <div class="quizbox-question"><input type="radio" name="q1" onclick="myFunction(this.value)" value="C"> Adding a prefix</div>
 <div class="quizbox-question"><input type="radio" name="q1" onclick="myFunction(this.value)" value="D"> All of the above</div>
 
-<a href="/post/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a>
+<p style="text-align="right;"><a href="/post/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
 </div>
