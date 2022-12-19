@@ -1,6 +1,6 @@
 ---
 title: Early Education Information for Teachers, Parents & Caregivers
-subtitle: Question 1
+subtitle: ""
 date: 2022-12-19T06:52:23.748Z
 draft: false
 featured: false
