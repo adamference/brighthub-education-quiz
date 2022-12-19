@@ -10,10 +10,10 @@ name = "Custom Theme"
   link_hover = "rgb(54, 54, 54)"
 
   # Menu
-  menu_primary = "#2a3032"
-  menu_text = "#000"
+  menu_primary = "#ffffff"
+  menu_text = "#ffffff"
   menu_text_active = "#0072ff"
-  menu_title = "#000"
+  menu_title = "#ffffff"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
