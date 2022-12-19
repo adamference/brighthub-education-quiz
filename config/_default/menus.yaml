@@ -9,13 +9,13 @@ main:
     weight: 10
   - name: Elementary
     url: 'https://www.brighthubeducation.com/elementary-school/'
-    weight: 10
+    weight: 30
   - name: Middle
     url: 'https://www.brighthubeducation.com/middle-school/'
-    weight: 10
+    weight: 60
   - name: High
     url: 'https://www.brighthubeducation.com/high-school/'
-    weight: 10
+    weight: 90
   - name: Special Ed
     url: 'https://www.brighthubeducation.com/special-education/'
-    weight: 10
+    weight: 120
