@@ -38,5 +38,5 @@ projects: []
 
 <div ID="hidden-answer" style="display:none;">The correct answer is Go on a shopping spree. Going on a shopping spree is not a great way to keep children entertained while spending time at home.</div>
 
-<p style="text-align: right;"><a href="/parents-children-time-at-home-activities-galore-7/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
+<p style="text-align: right;"><a href="/post/parents-children-time-at-home-activities-galore-8/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
 </div>

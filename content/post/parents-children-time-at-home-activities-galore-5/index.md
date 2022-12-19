@@ -38,5 +38,5 @@ projects: []
 
 <div ID="hidden-answer" style="display:none;">The correct answer is Encouraging them to participate in creative activities such as arts and crafts. Creative activities are a great way to help children learn new skills and pass time.</div>
 
-<p style="text-align: right;"><a href="/parents-children-time-at-home-activities-galore-5/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
+<p style="text-align: right;"><a href="/post/parents-children-time-at-home-activities-galore-6/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
 </div>

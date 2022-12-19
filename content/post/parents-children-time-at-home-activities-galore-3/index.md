@@ -38,5 +38,5 @@ projects: []
 
 <div ID="hidden-answer" style="display:none;">The correct answer is Encourage them to do outdoor activities such as playing sports or going for a walk. Outdoor activities are great for physical activity, and can help reduce stress and anxiety.</div>
 
-<p style="text-align: right;"><a href="/parents-children-time-at-home-activities-galore-3/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
+<p style="text-align: right;"><a href="/post/parents-children-time-at-home-activities-galore-4/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
 </div>

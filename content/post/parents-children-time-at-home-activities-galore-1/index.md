@@ -38,5 +38,5 @@ projects: []
 
 <div ID="hidden-answer" style="display:none;">The correct answer is Encouraging them to participate in creative activities such as arts and crafts. Children benefit from creative activities as it helps them learn new skills, and is a great way to pass time.</div>
 
-<p style="text-align: right;"><a href="/parents-children-time-at-home-activities-galore-1/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
+<p style="text-align: right;"><a href="/post/parents-children-time-at-home-activities-galore-2/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
 </div>

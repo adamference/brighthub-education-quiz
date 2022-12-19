@@ -38,5 +38,5 @@ projects: []
 
 <div ID="hidden-answer" style="display:none;">The correct answer is Read books, play board games, and draw/paint. These activities help children learn new skills and can help improve their creativity.</div>
 
-<p style="text-align: right;"><a href="/parents-children-time-at-home-activities-galore-8/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
+<p style="text-align: right;"><a href="/post/parents-children-time-at-home-activities-galore-9/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
 </div>
