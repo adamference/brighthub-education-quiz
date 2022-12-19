@@ -21,20 +21,6 @@ for(let i = 0; i < correctAnswer.length; i++) {
   });
 }
 </script>
-
-<div class="quizbox">
-<h2 style="color: #ffffff;">Question 1</h2>
-<p>What are some activities that parents can do with their children at home?</p>
-
-<div class="quizbox-question" onclick="this.style.backgroundColor='#32dc66';">Playing board games</div>
-<div class="quizbox-question" onclick="this.style.backgroundColor='#dc3232';">Going to the movies</div>
-<div class="quizbox-question" onclick="this.style.backgroundColor='#dc3232';">Hiking in the woods</div>
-<div class="quizbox-question" onclick="this.style.backgroundColor='#dc3232';">Going to the beach</div>
-
-
-<p style="text-align: right;"><a href="/parents-children-time-at-home-activities-galore-2/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
-</div>
-
 <script>
 let correctAnswer = document.querySelectorAll(".quizbox-question");
 for(let i = 0; i < correctAnswer.length; i++) {
@@ -49,3 +35,19 @@ for(let i = 0; i < correctAnswer.length; i++) {
   });
 }
 </script>
+
+
+
+<div class="quizbox">
+<h2 style="color: #ffffff;">Question 1</h2>
+<p>What are some activities that parents can do with their children at home?</p>
+
+<div class="quizbox-question" onclick="this.style.backgroundColor='#32dc66';">Playing board games</div>
+<div class="quizbox-question" onclick="this.style.backgroundColor='#dc3232';">Going to the movies</div>
+<div class="quizbox-question" onclick="this.style.backgroundColor='#dc3232';">Hiking in the woods</div>
+<div class="quizbox-question" onclick="this.style.backgroundColor='#dc3232';">Going to the beach</div>
+
+
+<p style="text-align: right;"><a href="/parents-children-time-at-home-activities-galore-2/" class="btn btn-primary btn-lg mb-md-1">Next Question <i class="fa-solid fa-arrow-right"></i></a></p>
+</div>
+
